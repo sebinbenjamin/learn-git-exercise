@@ -251,7 +251,7 @@ body {
 .timeline-number {
   width: 40px;
   height: 40px;
-  background-color: var(--accent);
+  background-color: var(--light-text);
   color: white;
   border-radius: 50%;
   display: flex;
